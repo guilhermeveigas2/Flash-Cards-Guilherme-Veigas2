@@ -1,23 +1,23 @@
 criaCartao(
-    'Categoria',
+    'Futebol',
     'Quem foi o maior jogador de futebol do brasil?',
     'Edson Arantes do Nascimento(Pelé)'
 )
 
 criaCartao(
-    'Categoria',
-    'Qual pais ganhou a primeira copa do mundo?',
+    'Futebol',
+    'Qual país ganhou a primeira copa do mundo?',
     'Foi o Uruguai'
 )
 
 criaCartao(
-    'Categoria',
+    'Futebol',
     'Quais países ganharam a copa do mundo?',
-    'R:Brasil, Alemanha, Itália, Argentina, França, Uruguai e Espanha'
+    'R:Brasil, Alemanha, Itália, Argentina, França, Uruguai, Espanha e Inglaterra'
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta?',
-    'Resposta'
+    'Futebol',
+    'Quantos títulos de copa tem cada país vencedor da copa do mundo?',
+    'Brasil:5 títulos. Alemanha:4 títulos. Itália:4 títulos. Argentina:2 títulos. Uruguai:2 títulos. Espanha:1 título. Inglaterra:1 título.'
 )
